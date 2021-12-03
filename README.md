@@ -8,3 +8,8 @@
 ***italic bold font***
 
 ~~shut this~~
+
+*fruit
+ *grape
+ *tomato
+ *mango
